@@ -1,0 +1,17 @@
+﻿  OtoKhach.cpp
+  OToTai.cpp
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(45,14): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(48,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(51,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(56,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(59,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OtoKhach.cpp(65,53): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OToTai.cpp(25,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OToTai.cpp(27,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OToTai.cpp(30,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OToTai.cpp(36,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\QuanLyShowroom\QuanLyShowroom\OToTai.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Showroom.cpp
+  TestShowroom.cpp
+  Generating Code...
+  QuanLyShowroom.vcxproj -> D:\oop\TheZoo\52_NguyenThiThaoThuong\52_NguyenThiThaoThuong\x64\Debug\QuanLyShowroom.exe
